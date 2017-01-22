@@ -1,0 +1,17 @@
+
+h1 {
+	font-size: 200px;
+}
+body{
+	
+
+  
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+a:hover{
+	text-decoration: none;
+
+}
